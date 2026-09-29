@@ -85,7 +85,7 @@ export default function Footer() {
               <div className="flex items-start gap-3">
                 <MapPin className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" />
                 <span className="leading-relaxed">
-                  20/25/90 Pen-Khopoli Road, Jambhivali Village, Raigad – 402107, Maharashtra, India
+                  Plot 71/25, Ground Floor, Sai Mandir Road, Next to Sai Mandir Temple, Ajivali Village, Khalapur, Raigad – 410203, Maharashtra, India
                 </span>
               </div>
 
